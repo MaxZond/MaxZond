@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there, I'm <a href="https://github.com/MaxZond/" target="_blank">Max</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+  <p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/ZOND.jpg" height="200" /></h1>
+  </p>
 
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
